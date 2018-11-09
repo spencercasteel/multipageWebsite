@@ -1,0 +1,30 @@
+body {
+    margin: 2%;
+    background-color: #bffff1;
+    color: #0a3200
+}
+
+.navigationBar {
+    background-color: #74f2ce;
+    list-style-type: none;
+    color: #bffff1;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    font-size: xx-large
+}
+
+.navigationBar li {
+    display: inline;
+    border-style: solid;
+    padding: 0px 40px 0px 40px;
+}
+
+.navigationBar li:hover {
+    background-color: #7cffcb
+}
+
+.navigationBar li a {
+    color: #0a3200
+}
+
